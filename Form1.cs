@@ -14,19 +14,19 @@
 
             
             itemCoffee.Name = "Coffee";
-            itemCoffee.Price = 75;
+            itemCoffee.Price =60;
             itemCoffee.Quantity = 0;
 
             itemGreentea.Name = "Greentea";
-            itemGreentea.Price = 60;
+            itemGreentea.Price = 50;
             itemGreentea.Quantity = 0;
 
             itemNoodle.Name = "Noodle";
-            itemNoodle.Price = 50;
+            itemNoodle.Price = 40;
             itemNoodle.Quantity = 0;
 
             itemPizza.Name = "Pizza";
-            itemPizza.Price = 120;
+            itemPizza.Price = 159;
             itemPizza.Quantity = 0;
 
             
